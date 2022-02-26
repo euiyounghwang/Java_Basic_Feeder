@@ -1,0 +1,6 @@
+{ "index" : { "_index" : "sample", "_type" : "_doc", "_id" : "new_id_0"}}
+{"TITLE" : "Java Feeder 샘플 데이터 색인 과제"}
+{ "index" : { "_index" : "sample", "_type" : "_doc", "_id" : "new_id_1"}}
+{"TITLE" : "Java Feeder 샘플 데이터 색인 과제"}
+{ "index" : { "_index" : "sample", "_type" : "_doc", "_id" : "new_id_2"}}
+{"TITLE" : "Java Feeder 샘플 데이터 색인 과제"}
