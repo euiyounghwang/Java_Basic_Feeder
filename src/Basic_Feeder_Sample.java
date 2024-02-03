@@ -13,7 +13,7 @@ public class Basic_Feeder_Sample {
 		curl -XPOST -u elastic:gsaadmin "http://10.132.17.117:9201/_bulk" -H 'Content-Type: application/json' --data-binary @/ES/Basic_Feeder/INPUT/posts.json
 		 */
 			 
-		String Elastic_IP = "127.0.0.1:9201";
+		String Elastic_IP = "127.0.0.1:9200";
 
 		String URL = null;
 		String INDICES_NAME = "sample";

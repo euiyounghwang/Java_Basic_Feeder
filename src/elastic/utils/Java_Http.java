@@ -61,7 +61,7 @@ public class Java_Http {
 
 			entity = new ByteArrayEntity(_buffer.getBytes("UTF-8"));
 			_Httppost.setEntity(entity);
-			_Httppost.setHeader("Authorization", "Basic " + Base64Coder.encodeString("posroesd:gsaadmin"));
+			_Httppost.setHeader("Authorization", "Basic " + Base64Coder.encodeString("elastic:gsaadmin"));
 			_Httppost.setHeader("Content-Type", "application/x-ndjson");
 //			_Httppost.setHeader("Content-Type", "application/json");
 
